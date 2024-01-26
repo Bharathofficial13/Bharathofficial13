@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Bharath
 
 Computer Science Engineering Student@ Saranathan College of Engineering Trichy.
-<img align="right" width="370" height="290" src="/En1y.gif">                                                                               
+<br/><img align="right" style="margin-top:30" width="290" height="290" src="/En1y.gif">                                                                         
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
