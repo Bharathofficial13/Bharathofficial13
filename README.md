@@ -22,5 +22,5 @@ Computer Science Engineering Student@ Saranathan College of Engineering Trichy.
 
 ![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathofficial13&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/bharathsenthil34?theme=dark&font=Marcellus&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bharathsenthil34?theme=dark&font=Marcellus&ext=activity)
 
